@@ -1,8 +1,8 @@
-##The COVID-19 storytelling discourse
+## The COVID-19 storytelling discourse
 
 The following repository contains the data for the paper "Stories and personal experiences in the COVID-19 Discourse".
 
-###Test set of COVID-19 Discourse
+### Test set of COVID-19 Discourse
 
 The manually annotated test set is available in ``data/test_set_covid19.csv``. The annotated layers describe the
 following aspects (binary coded):
@@ -23,7 +23,7 @@ Additionally the following information is provided:
 - ``token_length``: number of tokens in the span
 - ``corpus``: the subcorpus from which the span was extracted
 
-###The storytelling discourse data
+### The storytelling discourse data
 
 The automatically extracted discourse data is available in ``data/storytellingDiscourseCOVID19.csv``. The following information is
 provided:
